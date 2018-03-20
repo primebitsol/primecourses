@@ -151,6 +151,10 @@ aside ul li{
     padding-bottom: 20px;
 }
 /*----------div's----------*/
+.course-icon{
+	text-align:center;
+	height:140px;
+}
 .meta-categories {
     opacity: 1;
     position: relative;
